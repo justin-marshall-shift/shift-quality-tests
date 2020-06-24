@@ -3,7 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Shift_Quality_App</RootNamespace>
+    <RootNamespace>Shift.Quality.App</RootNamespace>
+    <StartupObject>Shift_Quality_App.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
